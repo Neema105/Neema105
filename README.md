@@ -1,4 +1,6 @@
-## Completing my coursework throughout the Computer Science program at Southern New Hampshire University has helped me develop multiple resume-ready projects that showcase various technical skills to recruiters. As an aspiring data analyst, working on my capstone has allowed me to explore various tools in my field such as PostgreSQL and working with large sets of data. I have learned how to communicate stakeholder needs into working products and collaborate in team environments.
+## Neema Taghipour | Aspiring Data Analyst 
+
+Completing my coursework throughout the Computer Science program at Southern New Hampshire University has helped me develop multiple resume-ready projects that showcase various technical skills to recruiters. As an aspiring data analyst, working on my capstone has allowed me to explore various tools in my field such as PostgreSQL and working with large sets of data. I have learned how to communicate stakeholder needs into working products and collaborate in team environments.
 My Animal Shelter Database exemplifies my skills by displaying my software engineering and security skills through an authentication system that allows new users to access the application. My expertise in data structures and algorithms is displayed through the various sorting algorithms available to the users. My knowledge of databases is portrayed through the postgreSQL database layer of my application. 
 
 [https://github.com/Neema105/Animal-Server-Dashboard]
