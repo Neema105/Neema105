@@ -1,6 +1,6 @@
-Hello!
+Hello! 👋
 
-
+I am a passionate Data Analyst who is driven by turning data into valuable and applicable results. Combining my recent Computer Science degree and Google Advanced Data Analytics certificate, I have developed an advanced technical skillset that provides me with the insight I need to create impactful data-driven solutions. 
 
 
 
