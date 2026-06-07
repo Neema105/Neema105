@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neema Taghipour</h1>
 <h3 align="center">Data Engineer
 
+## About Me
 
+I’m a data engineer who loves taking messy, chaotic data and turning it into something clean and reliable. I focus on building smart, efficient pipelines so teams can trust their metrics without second-guessing the infrastructure. Ultimately, my goal is simple: keep the data flowing smoothly so everyone else can do their best work.
 
 
 ## Tech Stack
@@ -35,34 +37,31 @@
 
 ---
 
-## 🏗️ Featured Projects
+## Certifications
 
-### 📈 Retail Sales Analytics Pipeline
+[Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZL1JZ3UJT973)
+
+---
+
+## Featured Projects
+
+### LPL A/B Testing
 Designed an end-to-end ETL pipeline that ingests sales data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and visualizes KPIs through Power BI dashboards.
 
 **Tech:** Python, PostgreSQL, Power BI
 
 ---
 
-### ☁️ Azure Data Warehouse Project
+### Animal Server Dashboard
 Built a cloud-based analytics solution leveraging Azure services to process, store, and analyze large datasets while implementing dimensional data models for reporting.
 
 **Tech:** Azure, SQL, Power BI
 
 ---
 
-### 🔄 Automated Data Ingestion Framework
-Created reusable ETL scripts that automate extraction, transformation, validation, and loading of structured datasets into a centralized warehouse.
 
-**Tech:** Python, SQL
-
----
-
-## 📚 Certifications
-
-- Google Advanced Data Analytics Professional Certificate
 
 
 <p align="center">
-Thanks for visiting! Feel free to explore my repositories and connect with me.
+Thanks for visiting! Connect with me for job or project opportunities at https://www.linkedin.com/in/neema-taghipour/
 </p>
