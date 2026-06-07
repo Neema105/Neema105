@@ -39,13 +39,13 @@ I’m a data engineer who loves taking messy, chaotic data and turning it into s
 
 ## Featured Projects
 
-### LPL A/B Testing
-Designed an end-to-end ETL pipeline that ingests sales data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and visualizes KPIs through Power BI dashboards.
+### [LPL A/B Testing](https://github.com/Neema105/LPL-A-B-Testing)
+Designed an end-to-end ETL pipeline that ingests 67,000 rows of game data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and …Designed an end-to-end ETL pipeline that ingests 67,000 rows of game data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and visualizes KPIs through a Power BI dashboard with custom DAX measures for dynamic win rate calculations and A/B test result comparisons.
 
 **Tech:** Python, PostgreSQL, Power BI
 
 
-### Animal Server Dashboard
+### [Animal Server Dashboard](https://github.com/Neema105/Animal-Server-Dashboard)
 Built a cloud-based analytics solution leveraging Azure services to process, store, and analyze large datasets while implementing dimensional data models for reporting.
 
 **Tech:** Azure, SQL, Power BI
