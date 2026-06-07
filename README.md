@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m a data engineer who loves taking messy, chaotic data and turning it into something clean and reliable. I focus on building smart, efficient pipelines so teams can trust their metrics without second-guessing the infrastructure. Ultimately, my goal is simple: keep the data flowing smoothly so everyone else can do their best work.
+I’m a data engineer who loves taking messy, chaotic data and turning it into something clean and reliable. Combining my recent Google Advanced Data Analytics certificate and my strong passion to pursue graduate school, I have developed a rigorous approach to data architecture that bridges the gap between software engineering and advanced analytics
 
 
 ## Tech Stack
