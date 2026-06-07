@@ -35,13 +35,7 @@ I’m a data engineer who loves taking messy, chaotic data and turning it into s
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
----
 
-## Certifications
-
-[Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZL1JZ3UJT973)
-
----
 
 ## Featured Projects
 
@@ -50,14 +44,12 @@ Designed an end-to-end ETL pipeline that ingests sales data, cleans and transfor
 
 **Tech:** Python, PostgreSQL, Power BI
 
----
 
 ### Animal Server Dashboard
 Built a cloud-based analytics solution leveraging Azure services to process, store, and analyze large datasets while implementing dimensional data models for reporting.
 
 **Tech:** Azure, SQL, Power BI
 
----
 
 
 
