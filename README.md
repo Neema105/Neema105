@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neema Taghipour</h1>
-<h3 align="center">Data Engineer
+<h1 align="center">Neema Taghipour | Data Engineer</h1>
 
 ## About Me
 
