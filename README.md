@@ -39,7 +39,7 @@ I’m a data engineer who loves taking messy, chaotic data and turning it into s
 ## Featured Projects
 
 ### [LPL A/B Testing](https://github.com/Neema105/LPL-A-B-Testing)
-Designed an end-to-end ETL pipeline that ingests 67,000 rows of game data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and …Designed an end-to-end ETL pipeline that ingests 67,000 rows of game data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and visualizes KPIs through a Power BI dashboard with custom DAX measures for dynamic win rate calculations and A/B test result comparisons.
+Designed an end-to-end ETL pipeline that ingests 67,000 rows of game data, cleans and transforms records using Python and SQL, loads them into PostgreSQL, and visualizes KPIs through a Power BI dashboard with custom DAX measures for dynamic win rate calculations and A/B test result comparisons.
 
 **Tech:** Python, PostgreSQL, Power BI
 
