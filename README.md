@@ -1,4 +1,4 @@
-<h1 align="center">Neema Taghipour | Data Engineer</h1>
+<h1 align="center">Neema Taghipour | Data Specialist</h1>
 
 ## About Me
 
