@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a data engineer who loves taking messy, chaotic data and turning it into something clean and reliable. Combining my recent Google Advanced Data Analytics certificate and my strong passion to pursue graduate school, I have developed a rigorous approach to data architecture that bridges the gap between software engineering and advanced analytics
+I’m a data engineer who loves taking messy, chaotic data and turning it into something clean and reliable. Combining my recent Google Advanced Data Analytics certificate and my strong passion to pursue graduate school, I have developed a rigorous approach to data architecture that bridges the gap between software engineering and advanced analytics.
 
 
 ## Tech Stack
